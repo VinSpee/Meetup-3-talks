@@ -2,9 +2,7 @@
 
 To submit a talk. Do a pull request here, add your talk title, short description and your name. 3 talks will be picked each month.
 
-- __Name Of the Talk__
-  - led by: Your Name Here
-  - abstract: This is where the abstract goes
+
 
 - __Conquer the Gotchas__
   - led by: Aisha Blake
@@ -13,3 +11,8 @@ To submit a talk. Do a pull request here, add your talk title, short description
 - __The Beginning of the End of CSS__
   - led by: Vince Speelman
   - abstract: No matter how hard you may try, you're going to end up running into your favortie language, CSS. The good news is that it can be a lot simpler than the stylesheet bourgeoisie make it out to be. By employing functional programming techniques, you can simplify your stylesheets, work with confidence, and never write CSS again.
+
+- __You're just not my type: A TypeScript overview__
+  - lead by: [Steve Barman](http://stevebarman.com) 
+  - abstract: TypeScript is a pretty fun super set of javaScript. This talk covers the basics of what it is, how it works, and what the benefits it has for anyone using javaScript in development.
+ 
